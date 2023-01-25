@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Raphael Santos 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho de Analista de Sistemas | Grupo Uni.co
 - 🌱 Estou estudando Node.js e Bootstrap
 - 💬 Contate-me no email: raphaelkosantos@gmail.com
